@@ -20,6 +20,8 @@ The files in this lesson were populated using the API-only Rails build. Run
 
 ## Introduce the Fast JSON API
 
+
+
 The Fast JSON API is a JSON serializer for Rails APIs. It provides a way for us
 to generate _serializer_ classes for each resource object in our API that is
 involved in customized JSON rendering. We can use these serializer classes to
