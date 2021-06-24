@@ -35,7 +35,7 @@ JSON API to control the way our data is structured.
 Before we can see the solution Fast JSON API provides, let's look back at the
 problem we've been dealing with. We will start at the same place we started when creating our own
 service class serializer. This code-along has three resources set up: birds,
-locations and sightings:
+locations and sightings:.
 
 ```rb
 class Bird < ApplicationRecord
